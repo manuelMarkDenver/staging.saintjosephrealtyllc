@@ -134,19 +134,31 @@ function Navbar() {
               mr: 2,
               display: { xs: "flex", md: "none" },
               flexGrow: 1,
-              letterSpacing: ".3rem",
               color: "inherit",
               textDecoration: "none",
             }}
+            className="text-xs break-all"
           >
             Saint Joseph Realty LLC
           </Typography>
+
+          <Avatar
+            sx={{
+              display: { xs: "flex", md: "none" },
+              width: "30px",
+              height: "30px",
+              fontSize: "10px",
+            }}
+          >
+            MD
+          </Avatar>
 
           <Box
             sx={{
               flexGrow: 1,
               display: { xs: "none", md: "flex" },
               justifyContent: "flex-end",
+              alignItems: "center",
             }}
           >
             {pages.map((page) =>
@@ -175,6 +187,7 @@ function Navbar() {
                 </MenuItem>
               )
             )}
+            <Avatar>MD</Avatar>
           </Box>
 
           {/* <Box sx={{ flexGrow: 0 }}>

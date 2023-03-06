@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Rockness";
+  src: url("../public/fonts/rockness/Rockness.otf") format("otf"),
+    url("../public/fonts/rockness/Rockness.otf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}

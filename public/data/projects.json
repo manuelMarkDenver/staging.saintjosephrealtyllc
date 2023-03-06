@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "project": "8 Willowwood Mattapan",
+    "year": "2023",
+    "address": "San Francisco, California",
+    "specs": "3 BEDROOM HOUSES IN BEAUTIFUL SUBURBS",
+    "description": "Equipped with air conditioning, private pool, 3 on-suite bedrooms and a spacious open living room kitchen area, Sunshine Bay Residences are an excellent choice for anyone dreaming of their own safe haven. Located in a peaceful, child-friendly neighborhood, Sunshine Bay has all the amenities that you could expect from a suburb voted 'best in the state' for 3 running years. Whether you want to play soccer with your kids on the lawn, or invite friends over for dinner, there's space for it at Sunshine Bay",
+    "price": "$2.000.000"
+  },
+  {
+    "id": 2,
+    "project": "310 Water St Quincy",
+    "year": "2020",
+    "address": "Miami, Florida",
+    "specs": "3 BEDROOM HOUSES IN BEAUTIFUL SUBURBS",
+    "description": "Equipped with air conditioning, private pool, 3 on-suite bedrooms and a spacious open living room kitchen area, Sunshine Bay Residences are an excellent choice for anyone dreaming of their own safe haven. Located in a peaceful, child-friendly neighborhood, Sunshine Bay has all the amenities that you could expect from a suburb voted 'best in the state' for 3 running years. Whether you want to play soccer with your kids on the lawn, or invite friends over for dinner, there's space for it at Sunshine Bay",
+    "price": "$2.000.000"
+  },
+  {
+    "id": 3,
+    "project": "527 Centre St - 2023",
+    "year": "2021",
+    "address": "Seattle, Washington",
+    "specs": "3 BEDROOM HOUSES IN BEAUTIFUL SUBURBS",
+    "description": "Equipped with air conditioning, private pool, 3 on-suite bedrooms and a spacious open living room kitchen area, Sunshine Bay Residences are an excellent choice for anyone dreaming of their own safe haven. Located in a peaceful, child-friendly neighborhood, Sunshine Bay has all the amenities that you could expect from a suburb voted 'best in the state' for 3 running years. Whether you want to play soccer with your kids on the lawn, or invite friends over for dinner, there's space for it at Sunshine Bay",
+    "price": "$2.000.000"
+  },
+  {
+    "id": 5,
+    "project": "30 Greylock Ave",
+    "address": "Nashville, Tennessee",
+    "specs": "3 BEDROOM HOUSES IN BEAUTIFUL SUBURBS",
+    "year": "2023",
+    "description": "Equipped with air conditioning, private pool, 3 on-suite bedrooms and a spacious open living room kitchen area, Sunshine Bay Residences are an excellent choice for anyone dreaming of their own safe haven. Located in a peaceful, child-friendly neighborhood, Sunshine Bay has all the amenities that you could expect from a suburb voted 'best in the state' for 3 running years. Whether you want to play soccer with your kids on the lawn, or invite friends over for dinner, there's space for it at Sunshine Bay",
+    "price": "$2.000.000"
+  },
+  {
+    "id": 4,
+    "project": "5527 Centre St - 2012",
+    "year": "2022",
+    "address": "Denver, Colorado",
+    "specs": "3 BEDROOM HOUSES IN BEAUTIFUL SUBURBS",
+    "description": "Equipped with air conditioning, private pool, 3 on-suite bedrooms and a spacious open living room kitchen area, Sunshine Bay Residences are an excellent choice for anyone dreaming of their own safe haven. Located in a peaceful, child-friendly neighborhood, Sunshine Bay has all the amenities that you could expect from a suburb voted 'best in the state' for 3 running years. Whether you want to play soccer with your kids on the lawn, or invite friends over for dinner, there's space for it at Sunshine Bay",
+    "price": "$2.000.000"
+  }
+]
